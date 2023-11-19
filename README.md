@@ -30,9 +30,9 @@ This exploration showcases the power of data in unraveling the intricacies of a 
 
 ## How to Use This Repository
 
-1. **Dataset**: The dataset used for this analysis is available as `your_file.csv`.
+1. **Dataset**: The dataset used for this analysis is available as `Christopher Nolan Filmography.csv`.
 
-2. **Code**: The Python code used for data processing, analysis, and visualization is provided in the Jupyter Notebook (`Christopher_Nolan_Cinematic_Data_Dive.ipynb`).
+2. **Code**: The Python code used for data processing, analysis, and visualization is provided in the Jupyter Notebook (`Christopher_Nolan_Filmography.ipynb`).
 
 3. **Results**: Explore the detailed findings, visualizations, and insights in the notebook.
 
